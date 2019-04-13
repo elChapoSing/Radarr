@@ -160,6 +160,7 @@
     <Compile Include="Download\TrackedDownloads\TrackedDownloadsRemovedEvent.cs" />
     <Compile Include="Extras\Metadata\Consumers\Xbmc\XbmcNfoDetector.cs" />
     <Compile Include="Extras\Others\OtherExtraFileRenamer.cs" />
+    <Compile Include="HealthCheck\Checks\MountCheck.cs" />
     <Compile Include="HealthCheck\Checks\PTPOldSettingsCheck.cs" />
     <Compile Include="Housekeeping\Housekeepers\CleanupOrphanedAlternativeTitles.cs" />
     <Compile Include="MediaCover\EnsureMediaCoversCommand.cs" />
